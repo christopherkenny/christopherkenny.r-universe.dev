@@ -1,0 +1,34 @@
+[
+    {
+        "package": "geomander",
+        "url": "https://github.com/christopherkenny/geomander"
+    },
+    {
+        "package": "censable",
+        "url": "https://github.com/christopherkenny/censable"
+    },
+    {
+        "package": "divseg",
+        "url": "https://github.com/christopherkenny/divseg"
+    },
+    {
+        "package": "ppmf",
+        "url": "https://github.com/christopherkenny/ppmf"
+    },
+    {
+        "package": "cvap",
+        "url": "https://github.com/christopherkenny/cvap"
+    },
+    {
+        "package": "name",
+        "url": "https://github.com/christopherkenny/name"
+    },
+    {
+        "package": "acroname",
+        "url": "https://github.com/christopherkenny/acroname"
+    },
+    {
+        "package": "styler",
+        "url": "https://github.com/christopherkenny/styler"
+    }
+]
