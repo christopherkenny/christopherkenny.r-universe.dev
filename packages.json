@@ -1,34 +1,82 @@
 [
     {
+        "package": "redist",
+        "url": "https://github.com/alarm-redist/redist"
+    },
+    {
+        "package": "redistmetrics",
+        "url": "https://github.com/alarm-redist/redistmetrics"
+    },
+    {
         "package": "geomander",
         "url": "https://github.com/christopherkenny/geomander"
+    },
+    {
+        "package": "PL94170",
+        "url": "https://github.com/corymccartan/PL94170"
     },
     {
         "package": "censable",
         "url": "https://github.com/christopherkenny/censable"
     },
     {
-        "package": "divseg",
-        "url": "https://github.com/christopherkenny/divseg"
+        "package": "ggredist",
+        "url": "https://github.com/alarm-redist/ggredist"
     },
     {
-        "package": "ppmf",
-        "url": "https://github.com/christopherkenny/ppmf"
+        "package": "tinytiger",
+        "url": "https://github.com/alarm-redist/tinytiger"
     },
     {
         "package": "cvap",
         "url": "https://github.com/christopherkenny/cvap"
     },
     {
+        "package": "ppmf",
+        "url": "https://github.com/christopherkenny/ppmf"
+    },
+    {
+        "package": "divseg",
+        "url": "https://github.com/christopherkenny/divseg"
+    },
+    {
+        "package": "dots",
+        "url": "https://github.com/christopherkenny/dots"
+    },
+    {
+        "package": "congress",
+        "url": "https://github.com/christopherkenny/congress"
+    },
+    {
+        "package": "feltr",
+        "url": "https://github.com/christopherkenny/feltr"
+    },
+    {
+        "package": "apportion",
+        "url": "https://github.com/christopherkenny/apportion"
+    },
+    {
+        "package": "jot",
+        "url": "https://github.com/christopherkenny/jot"
+    },
+    {
         "package": "name",
         "url": "https://github.com/christopherkenny/name"
+    },
+    {
+        "package": "crayons",
+        "url": "https://github.com/christopherkenny/crayons"
+    },
+    {
+        "package": "gptzeror",
+        "url": "https://github.com/christopherkenny/gptzeror"
     },
     {
         "package": "acronames",
         "url": "https://github.com/christopherkenny/acronames"
     },
     {
-        "package": "styler",
-        "url": "https://github.com/christopherkenny/styler"
+        "package": "styler.quote",
+        "url": "https://github.com/christopherkenny/styler.quote"
     }
 ]
