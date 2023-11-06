@@ -72,11 +72,55 @@
         "url": "https://github.com/christopherkenny/gptzeror"
     },
     {
-        "package": "acronames",
-        "url": "https://github.com/christopherkenny/acronames"
+        "package": "alarmdata",
+        "url": "https://github.com/alarm-redist/alarmdata"
+    },
+    {
+        "package": "redistverse",
+        "url": "https://github.com/alarm-redist/redistverse"
+    },
+    {
+        "package": "planscorer",
+        "url": "https://github.com/christopherkenny/planscorer"
+    },
+    {
+        "package": "ei",
+        "url": "https://github.com/iqss-research/eir"
+    },
+    {
+        "package": "bskyr",
+        "url": "https://github.com/christopherkenny/bskyr"
+    },
+    {
+        "package": "vf",
+        "url": "https://github.com/christopherkenny/vf"
+    },
+    {
+        "package": "redistio",
+        "url": "https://github.com/christopherkenny/redistio"
+    },
+    {
+        "package": "royale",
+        "url": "https://github.com/christopherkenny/royale"
+    },
+    {
+        "package": "clash",
+        "url": "https://github.com/christopherkenny/clash"
     },
     {
         "package": "styler.quote",
         "url": "https://github.com/christopherkenny/styler.quote"
+    },
+    {
+        "package": "luigg",
+        "url": "https://github.com/christopherkenny/luigg"
+    },
+    {
+        "package": "acronames",
+        "url": "https://github.com/christopherkenny/acronames"
+    },
+    {
+        "package": "parrot",
+        "url": "https://github.com/christopherkenny/parrot"
     }
 ]
