@@ -100,6 +100,10 @@
         "url": "https://github.com/christopherkenny/redistio"
     },
     {
+        "package": "ThemePark",
+        "url": "https://github.com/MatthewBJane/ThemePark"
+    },
+    {
         "package": "royale",
         "url": "https://github.com/christopherkenny/royale"
     },
