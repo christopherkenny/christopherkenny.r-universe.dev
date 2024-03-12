@@ -92,6 +92,10 @@
         "url": "https://github.com/christopherkenny/bskyr"
     },
     {
+        "package": "palette",
+        "url": "https://github.com/christopherkenny/palette"
+    },
+    {
         "package": "vf",
         "url": "https://github.com/christopherkenny/vf"
     },
