@@ -108,6 +108,10 @@
         "url": "https://github.com/MatthewBJane/ThemePark"
     },
     {
+        "package": "baf",
+        "url": "https://github.com/christopherkenny/baf"
+    },
+    {
         "package": "royale",
         "url": "https://github.com/christopherkenny/royale"
     },
