@@ -112,6 +112,10 @@
         "url": "https://github.com/christopherkenny/baf"
     },
     {
+        "package": "opengraph",
+        "url": "https://github.com/christopherkenny/opengraph"
+    },
+    {
         "package": "royale",
         "url": "https://github.com/christopherkenny/royale"
     },
