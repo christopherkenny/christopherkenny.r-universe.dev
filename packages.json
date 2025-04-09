@@ -116,6 +116,10 @@
         "url": "https://github.com/christopherkenny/opengraph"
     },
     {
+        "package": "flexoki",
+        "url": "https://github.com/christopherkenny/flexoki"
+    },
+    {
         "package": "royale",
         "url": "https://github.com/christopherkenny/royale"
     },
