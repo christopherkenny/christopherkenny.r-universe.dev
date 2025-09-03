@@ -120,6 +120,10 @@
         "url": "https://github.com/christopherkenny/flexoki"
     },
     {
+        "package": "manifesto",
+        "url": "https://github.com/christopherkenny/manifesto"
+    },
+    {
         "package": "royale",
         "url": "https://github.com/christopherkenny/royale"
     },
