@@ -124,6 +124,10 @@
         "url": "https://github.com/christopherkenny/manifesto"
     },
     {
+        "package": "ggtiger",
+        "url": "https://github.com/christopherkenny/ggtiger"
+    },
+    {
         "package": "royale",
         "url": "https://github.com/christopherkenny/royale"
     },
