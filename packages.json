@@ -128,6 +128,18 @@
         "url": "https://github.com/christopherkenny/ggtiger"
     },
     {
+        "package": "lobby",
+        "url": "https://github.com/christopherkenny/lobby"
+    },
+    {
+        "package": "adj",
+        "url": "https://github.com/alarm-redist/adj"
+    },
+    {
+        "package": "pr",
+        "url": "https://github.com/christopherkenny/pr"
+    },
+    {
         "package": "royale",
         "url": "https://github.com/christopherkenny/royale"
     },
