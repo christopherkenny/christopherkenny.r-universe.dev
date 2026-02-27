@@ -140,12 +140,24 @@
         "url": "https://github.com/christopherkenny/pr"
     },
     {
+        "package": "rict",
+        "url": "https://github.com/christopherkenny/rict"
+    },
+    {
+        "package": "ha",
+        "url": "https://github.com/christopherkenny/ha"
+    },
+    {
         "package": "royale",
         "url": "https://github.com/christopherkenny/royale"
     },
     {
         "package": "clash",
         "url": "https://github.com/christopherkenny/clash"
+    },
+    {
+        "package": "riotr",
+        "url": "https://github.com/christopherkenny/riotr"
     },
     {
         "package": "styler.quote",
