@@ -144,6 +144,10 @@
         "url": "https://github.com/christopherkenny/rict"
     },
     {
+        "package": "wf",
+        "url": "https://github.com/christopherkenny/wf"
+    },
+    {
         "package": "ha",
         "url": "https://github.com/christopherkenny/ha"
     },
