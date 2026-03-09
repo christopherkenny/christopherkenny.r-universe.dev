@@ -148,6 +148,10 @@
         "url": "https://github.com/christopherkenny/wf"
     },
     {
+        "package": "crann",
+        "url": "https://github.com/christopherkenny/crann"
+    },
+    {
         "package": "ha",
         "url": "https://github.com/christopherkenny/ha"
     },
