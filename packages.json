@@ -152,6 +152,10 @@
         "url": "https://github.com/christopherkenny/crann"
     },
     {
+        "package": "enum",
+        "url": "https://github.com/christopherkenny/enum"
+    },
+    {
         "package": "ha",
         "url": "https://github.com/christopherkenny/ha"
     },
