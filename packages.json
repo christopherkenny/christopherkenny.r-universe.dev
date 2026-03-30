@@ -156,6 +156,10 @@
         "url": "https://github.com/christopherkenny/enum"
     },
     {
+        "package": "gtscales",
+        "url": "https://github.com/christopherkenny/gtscales"
+    },
+    {
         "package": "ha",
         "url": "https://github.com/christopherkenny/ha"
     },
