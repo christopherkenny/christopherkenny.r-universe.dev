@@ -164,6 +164,26 @@
         "url": "https://github.com/christopherkenny/ha"
     },
     {
+        "package": "reon",
+        "url": "https://github.com/christopherkenny/reon"
+    },
+    {
+        "package": "snippet",
+        "url": "https://github.com/christopherkenny/snippet"
+    },
+    {
+        "package": "BCP47",
+        "url": "https://github.com/christopherkenny/BCP47"
+    },
+    {
+        "package": "ipf",
+        "url": "https://github.com/christopherkenny/ipf"
+    },
+    {
+        "package": "tinycensus",
+        "url": "https://github.com/christopherkenny/tinycensus"
+    },
+    {
         "package": "royale",
         "url": "https://github.com/christopherkenny/royale"
     },
