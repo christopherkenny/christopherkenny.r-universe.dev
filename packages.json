@@ -184,6 +184,10 @@
         "url": "https://github.com/christopherkenny/tinycensus"
     },
     {
+        "package": "irelink",
+        "url": "https://github.com/christopherkenny/irelink"
+    },
+    {
         "package": "royale",
         "url": "https://github.com/christopherkenny/royale"
     },
